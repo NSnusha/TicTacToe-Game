@@ -26,4 +26,4 @@ Open index.html in your preferred web browser.
 
 Start playing by clicking on any cell on the grid!
 
-📁 File Structure
+
